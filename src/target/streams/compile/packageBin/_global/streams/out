@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/wakita/Dropbox/doc/classes/prg1/lx09/src/target/scala-2.12/src_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hash.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wakita/Dropbox/doc/classes/prg1/lx09/src/target/scala-2.12/classes/Hash.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenAddressing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wakita/Dropbox/doc/classes/prg1/lx09/src/target/scala-2.12/classes/OpenAddressing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hash$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wakita/Dropbox/doc/classes/prg1/lx09/src/target/scala-2.12/classes/Hash$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenAddressing$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wakita/Dropbox/doc/classes/prg1/lx09/src/target/scala-2.12/classes/OpenAddressing$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenAddressing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wakita/Dropbox/doc/classes/prg1/lx09/src/target/scala-2.12/classes/OpenAddressing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hash$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wakita/Dropbox/doc/classes/prg1/lx09/src/target/scala-2.12/classes/Hash$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

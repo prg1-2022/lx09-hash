@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/wakita/Dropbox/doc/classes/prg1/lx09/src/hash.scala:42:13: overloaded method value apply with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (start: Int,end: Int)scala.collection.immutable.Range <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (start: Int,end: Int,step: Int)scala.collection.immutable.Range[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (Int)[0m
+[0m[[0m[31merror[0m] [0m[0m  for (i <- Range(HASH_SIZE)) {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
